@@ -1,0 +1,191 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 375px;
+    margin: 0 auto;
+    background: #202C36;
+    height: 2700px;
+
+}
+
+nav { 
+    padding-top: 10px; 
+    display: flex; 
+    justify-content: space-between; 
+    background: #2B3844;
+    
+
+} 
+nav ul{ 
+    list-style-type: none; 
+    display: flex; 
+    gap: 40px; 
+} 
+nav ul li a { 
+    text-decoration: none; 
+    color: white;
+} 
+.nav-left {
+    display: flex;
+    gap: 15px;
+}
+
+.fa-solid {
+   color: white;
+}
+
+input {
+    width: 343px;
+    height: 34px;
+    background: #2B3844;
+
+    
+}
+
+.div-1 {
+    padding-top: 15px;
+    text-align: center;
+}
+
+.card-1 {
+    margin-top: 50px;
+    width: 264px;
+height: 270px;
+top: 272px;
+left: 56px;
+gap: 0px;
+opacity: 0px;
+margin-left: 52px;
+background: #2B3844;
+color: white;
+
+
+
+}
+
+.card-1-text {
+    text-align: justify;
+    margin-left: 22px;
+}
+
+.img {
+    width: 264px;
+}
+
+
+.card-2 {
+    height: 270px;
+    width: 265px;
+    background: #2B3844;
+    margin-left: 52px; 
+    margin-top: 50px;
+    color: white;
+    
+   
+}
+
+.card-2-text {
+    text-align: justify;
+    margin-left: 22px;
+}
+
+.card-3 {
+    height: 270px;
+    width: 265px;
+    background: #2B3844;
+    margin-left: 52px; 
+    margin-top: 50px;
+    color: white;
+    
+   
+}
+
+.card-3-text {
+    text-align: justify;
+    margin-left: 22px;
+}
+
+.card-4 {
+    height: 270px;
+    width: 265px;
+    background: #2B3844;
+    margin-left: 52px; 
+    margin-top: 50px;
+    color: white;
+    
+   
+}
+
+.card-4-text {
+    text-align: justify;
+    margin-left: 22px;
+}
+
+.card-5 {
+    height: 270px;
+    width: 265px;
+    background: #2B3844;
+    margin-left: 52px; 
+    margin-top: 50px;
+    color: white;
+    
+   
+}
+
+.card-5-text {
+    text-align: justify;
+    margin-left: 22px;
+}
+
+.card-6 {
+    height: 270px;
+    width: 265px;
+    background: #2B3844;
+    margin-left: 52px; 
+    margin-top: 50px;
+    color: white;
+    
+   
+}
+
+.card-6-text {
+    text-align: justify;
+    margin-left: 22px;
+}
+
+.card-7 {
+    height: 270px;
+    width: 265px;
+    background: #2B3844;
+    margin-left: 52px; 
+    margin-top: 50px;
+    color: white;
+    
+   
+}
+
+.card-7-text {
+    text-align: justify;
+    margin-left: 22px;
+}
+
+
+.card-8 {
+    height: 270px;
+    width: 265px;
+    background: #2B3844;
+    margin-left: 52px; 
+    margin-top: 50px;
+    color: white;
+    
+   
+}
+
+.card-8-text {
+    text-align: justify;
+    margin-left: 22px;
+}
